@@ -15,5 +15,3 @@ Esse é um projeto backend que utiliza a API do gemini. foi desenvolvida com nod
 |--------|--------|---------|
 | POST | `/api/register` | registra o usuario e envia um email com sua API key que vai ser usada para ter acesso as requisições.
 | POST | `/api` | esse endpoint permite que você interaja com o gemini fazendo perguntas.
-
-## exemplos
