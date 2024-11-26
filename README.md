@@ -25,4 +25,4 @@ a resposta será:
   "message": "Registro concluído com sucesso! Sua API key foi enviada para o seu e-mail."
 }
 
-certifique-se de colocar seu email para o envio ser bem ducedido.
+certifique-se de colocar seu email para o envio ser bem sucedido.
