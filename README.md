@@ -18,3 +18,4 @@ Esse é um projeto backend que utiliza a API do gemini. foi desenvolvida com nod
 
 ## Exemplos
 curl:
+<img src="https://github.com/Emanoellima-dev/GEMINI-API/blob/main/imagens/imagem1.jpg" width="400" />
