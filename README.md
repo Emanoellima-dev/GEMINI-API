@@ -24,7 +24,7 @@ a resposta será:
 
 certifique-se de colocar seu email para o envio ser bem sucedido.
 
-depois de registra-se você receberá sua APIkey por email. a API key será usada para fazer perguntas ao gemini.veja no exemplo abaixo.
+depois de registra-se você receberá sua API key por email. a API key será usada para fazer perguntas ao gemini.veja no exemplo abaixo.
 <img src="https://github.com/Emanoellima-dev/GEMINI-API/blob/main/imagens/imagem3.jpg" width="400" />
 a resposta será:
 <img src="https://github.com/Emanoellima-dev/GEMINI-API/blob/main/imagens/imagem4.jpg" width="400" />
