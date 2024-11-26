@@ -19,3 +19,10 @@ Esse é um projeto backend que utiliza a API do gemini. foi desenvolvida com nod
 ## Exemplos
 curl:
 <img src="https://github.com/Emanoellima-dev/GEMINI-API/blob/main/imagens/imagem1.jpg" width="400" />
+a resposta será:
+
+{
+  "message": "Registro concluído com sucesso! Sua API key foi enviada para o seu e-mail."
+}
+
+certifique-se de colocar seu email para o envio ser bem ducedido.
