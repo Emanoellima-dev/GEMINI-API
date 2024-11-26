@@ -5,7 +5,7 @@ const BREVO_API_KEY = process.env.BREVO_API_KEY;
 const sendApiKey = async (email, key) => {
   
   const data = {
-    sender: { email: "preencha_com_seu_email" },
+    sender: { email: "emanoelpi76@gmail.com" },
     to: [{ email }],
     subject: "Sua_API_key",
     htmlContent: `
