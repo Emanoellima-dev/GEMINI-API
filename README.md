@@ -28,3 +28,5 @@ depois de registra-se você receberá sua APIkey por email. a API key será usad
 <img src="https://github.com/Emanoellima-dev/GEMINI-API/blob/main/imagens/imagem3.jpg" width="400" />
 a resposta será:
 <img src="https://github.com/Emanoellima-dev/GEMINI-API/blob/main/imagens/imagem4.jpg" width="400" />
+
+certifique-se de colocar seu email para o envio ser bem sucedido.
