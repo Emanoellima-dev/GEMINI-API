@@ -8,6 +8,7 @@ const PORT = 3000;
 app.use(express.json());
 app.use("/", routes);
 
+//conexão com o banco de dados
 async function connect(){
   try {
     await sequelize.authenticate();
